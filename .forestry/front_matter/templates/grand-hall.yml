@@ -16,4 +16,4 @@ fields:
   label: tags
 - type: text
   name: title
-  label: title
+  label: provino
