@@ -1,6 +1,6 @@
 ---
-title: 'Ananke: a Hugo Theme'
-featured_image: "/images/gohugo-default-sample-hero-image.jpg"
+title: 'Ananke: a BANANA Hugo Theme'
+featured_image: "/images/Pope-Edouard-de-Beaumont-1844.jpg"
 description: The last theme you'll ever need. Maybe.
 
 ---
