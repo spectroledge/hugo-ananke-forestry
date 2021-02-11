@@ -32,10 +32,3 @@ params:
   background_color_class: bg-black
   featured_image: "/images/gohugo-default-sample-hero-image.jpg"
   recent_posts_number: 2
-menu:
-  main:
-  - name: Quasi
-    parent: blog
-    weight: 1
-  - name: blog
-    weight: 2
